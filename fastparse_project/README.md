@@ -36,4 +36,4 @@ MIT License — możesz używać, modyfikować i zarabiać na własnych wersjach
 
 ### 🧠 Autor
 
-Stworzone przez [Twoje Imię] – dla tych, którzy kochają szybkość i prostotę.
+Stworzone przez Krystian Jagiełło – dla tych, którzy kochają szybkość i prostotę.
